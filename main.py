@@ -14,6 +14,5 @@ choice = input('Enter your choice number: ')
 if choice == '4': 
   print(f'Thank you for chatting with the Elite 101 Chatbox, {name}!! \nBye Now!')
 else:
-  print('Sorry, I did not understand your choice. Please pick another option.')
-
+  print('Sorry, I did not understand your choice. Please start again.')
   
